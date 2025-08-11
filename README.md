@@ -46,5 +46,9 @@ Hierarchical Clustering Analysis groups customers based on annual income and spe
 - **Visual Exploration:** Dendrogram and cluster plots make complex relationships easier to interpret.
 - **Scalable Framework:** Approach can be expanded to include more features or other clustering algorithms for deeper insights.
 
-  
+  ## Dashboard Preview
+
+![Customer-Segmentation-via-Hierarchical-Clustering]
+![Customer-Segmentation-via-Hierarchical-Clustering]
+
   
