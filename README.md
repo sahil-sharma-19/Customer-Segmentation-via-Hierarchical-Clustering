@@ -49,6 +49,8 @@ Hierarchical Clustering Analysis groups customers based on annual income and spe
   ## Snapshot Preview
 
 ![Customer-Segmentation-via-Hierarchical-Clustering](https://github.com/sahil-sharma-19/Customer-Segmentation-via-Hierarchical-Clustering/blob/main/dendrogram_customers.png)
+
+## Customer Clusters
 ![Customer-Segmentation-via-Hierarchical-Clustering](https://github.com/sahil-sharma-19/Customer-Segmentation-via-Hierarchical-Clustering/blob/main/customer_clusters.png)
 
   
