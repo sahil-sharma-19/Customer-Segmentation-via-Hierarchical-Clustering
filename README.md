@@ -10,7 +10,7 @@ Hierarchical Clustering Analysis groups customers based on annual income and spe
 - **SciPy**: Hierarchical clustering and dendrogram generation.
 - **scikit-learn**: Agglomerative clustering for segmenting customers.
 
-## Data Source
+## Data Source Information
 
 - The dataset consists of 200 customer records from a mall’s customer database.
 - Each record includes: CustomerID, Genre, Age, Annual Income (k$), and Spending Score (1-100).
