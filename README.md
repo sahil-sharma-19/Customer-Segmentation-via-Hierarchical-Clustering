@@ -26,3 +26,14 @@ Hierarchical Clustering Analysis groups customers based on annual income and spe
 | 3          | Female | 20  | 16                 | 6                      |
 | ...        | ...    | ... | ...                | ...                    |
 | 200        | Male   | 30  | 137                | 83                     |
+
+## Features & Highlights
+
+- **Customer Segmentation**: Groups customers based on Annual Income and Spending Score.
+- **Hierarchical Clustering**: Uses agglomerative clustering with Ward linkage for precise grouping.
+- **Dendrogram Visualization**: Helps determine the optimal number of clusters.
+- **Data Exploration**: Clear inspection and understanding of dataset features.
+- **Clean Code & Organization**: Well-structured project with separate folders for data, code, and notebooks.
+- **Interactive Notebook**: Step-by-step Jupyter Notebook for hands-on analysis.
+- **Python-based Implementation**: Built using Pandas, NumPy, Matplotlib, SciPy, and scikit-learn.
+- **Scalable Approach**: Can be extended with more features or different clustering methods.
